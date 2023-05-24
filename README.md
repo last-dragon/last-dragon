@@ -2,7 +2,7 @@
   <a href=""><img src=""></a>
 </p>
 <p align="center">
-  <a href=""><img align="center" src="./pics/cat.gif"/></a>
+  <a href=""><img align="center" src=""/></a>
 </p>
 <h1 align="center">
 </h1>
