@@ -1,13 +1,13 @@
 <p align="center">
-  <a href="https://about-jeff.web.app/"><img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=24&duration=3000&pause=500&color=8000FF&width=435&lines=Passionate+Full+Stack+Developer;Highly+Secure+Web3+Developer;5+Years+of+Hands-on+Experience"></a>
+  <a href=""><img src=""></a>
 </p>
 <p align="center">
-  <a href="https://about-jeff.web.app/"><img align="center" src="./pics/cat.gif"/></a>
+  <a href=""><img align="center" src="./pics/cat.gif"/></a>
 </p>
 <h1 align="center">
 </h1>
 <p>
-<b>Artemis330</b>: Full Stack Developer with <b>5 Years of Experience</b> in developing <b>Web Applications</b>, including <b>Web3</b> applications. Skilled in <b>Requirements Analysis</b>, <b>Code Development</b>, and <b>technical direction</b>. Experienced in <b>Front-End Development</b>, <b>API Integration</b>, and <b>Mentoring</b>. <b>Strong Project Management Skills</b> with experience in <b>Business Continuity</b> and <b>Disaster Recovery Planning</b>.
+<b>RAST-DRAGON</b>: Full Stack and Blockchain Developer with <b>6 Years of Experience</b> in developing <b>Web Applications</b>, including <b>Web3</b> applications. Skilled in <b>Requirements Analysis</b>, <b>Code Development</b>, and <b>technical direction</b>. Experienced in <b>Front-End Development</b>, <b>API Integration</b>, and <b>Mentoring</b>. <b>Strong Project Management Skills</b> with experience in <b>Business Continuity</b> and <b>Disaster Recovery Planning</b>.
 <b>Collaborates</b> effectively with cross-functional teams, <b>Optimizes</b> application performance and scalability, and <b>Mentors</b> junior developers.
 </p>
 
