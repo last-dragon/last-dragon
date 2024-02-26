@@ -7,7 +7,7 @@
 <h1 align="center">
 </h1>
 <p>
-<b>RAST-DRAGON</b>: Full Stack and Blockchain Developer with <b>6 Years of Experience</b> in developing <b>Web Applications</b>, including <b>Web3</b> applications. Skilled in <b>Requirements Analysis</b>, <b>Code Development</b>, and <b>technical direction</b>. Experienced in <b>Front-End Development</b>, <b>API Integration</b>, and <b>Mentoring</b>. <b>Strong Project Management Skills</b> with experience in <b>Business Continuity</b> and <b>Disaster Recovery Planning</b>.
+<b>LAST-DRAGON</b>: Full Stack and Blockchain Developer with <b>7 Years of Experience</b> in developing <b>Web Applications</b>, including <b>Web3</b> applications. Skilled in <b>Requirements Analysis</b>, <b>Code Development</b>, and <b>technical direction</b>. Experienced in <b>Front-End Development</b>, <b>API Integration</b>, and <b>Mentoring</b>. <b>Strong Project Management Skills</b> with experience in <b>Business Continuity</b> and <b>Disaster Recovery Planning</b>.
 <b>Collaborates</b> effectively with cross-functional teams, <b>Optimizes</b> application performance and scalability, and <b>Mentors</b> junior developers.
 </p>
 
